@@ -1,0 +1,41 @@
+body{
+	font-family: verdana;
+	margin: 0;
+	padding: 0;
+    
+    background-color: #83db8c;
+}
+
+header{
+	background-color: #127e1c;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+nav{
+    background-color: #93e49b;
+}
+
+nav a{
+    margin: 0 15px;
+    text-align: center;
+    width:100%;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    color: white;
+    text-shadow: #094d10;
+}
+
+.myLinks a{
+    color:#cc1515;
+    text-decoration: solid;
+}
+
+.yo{
+    border-radius: 30px;
+
+}
