@@ -6,6 +6,10 @@ body{
     background-color: #83db8c;
 }
 
+main{
+    margin: 30px;
+}
+
 header{
 	background-color: #127e1c;
 	color: white;
@@ -15,11 +19,13 @@ header{
 
 nav{
     background-color: #93e49b;
+    padding: 15px;
+    text-align: center;
 }
 
 nav a{
     margin: 0 15px;
-    text-align: center;
+    
     width:100%;
     text-decoration: none;
     color: black;
